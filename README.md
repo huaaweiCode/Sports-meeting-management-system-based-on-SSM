@@ -1,41 +1,75 @@
 # 基于SSM的运动会管理系统
 
-#### 介绍
+## 获取方式
+
+扫描下方，回复关键词  ：**运动会** ，获取完整版源码
+
+![https://gitee.com/](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205281253739.png)
+
+## 1、项目介绍
+
 基于SSM的运动会管理系统有两种角色
 
 管理员：用户管理、通知管理、参赛管理、运动员管理、比赛类别管理、赛程管理、比赛安排管理、成绩管理等
 
 运动员：登录注册、参加比赛、各种信息的查询
 
-#### 软件架构
-软件架构说明
+
+## 2、项目技术
+
+后端框架：SSM（Spring、SpringMVC、Mybatis）
+
+前端技术：jsp、css、JavaScript、JQuery
+
+## 3、开发环境
+
+- JAVA版本：JDK1.8
+- IDE类型：IDEA、Eclipse都可运行
+- tomcat版本：Tomcat 7-10版本均可
+- 数据库类型：MySql（5.x和8.x版本都可） 
+- maven版本：无限制
+- 硬件环境：Windows 或者 Mac OS
 
 
-#### 安装教程
+## 4、功能介绍
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+### 4.1 登录注册
 
-#### 使用说明
+![登录](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208101027033.jpg)
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+![注册](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208101027815.jpg)
 
-#### 参与贡献
+### 4.2 管理员模块
 
-1.  Fork 本仓库
-2.  新建 Feat_xxx 分支
-3.  提交代码
-4.  新建 Pull Request
+![管理员-用户管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208101028901.jpg)
+
+![管理员-通知管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208101028107.jpg)
+
+![管理员-参赛管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208101028786.jpg)
+
+![管理员-运动员管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208101028845.jpg)
+
+![管理员-比赛类别管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208101028739.jpg)
+
+![管理员-比赛赛程管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208101028881.jpg)
+
+![管理员-比赛安排管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208101028677.jpg)
+
+![管理员-成绩管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208101028428.jpg)
+
+### 4.3运动员 模块
+
+![用户-参加比赛](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208101028514.jpg)
+
+![用户-比赛安排](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208101028813.jpg)
+
+![用户功能列表](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208101028146.jpg)
+
+## 5、获取方式
+
+扫描下方，回复关键词  ：**运动会** ，获取完整版源码
 
 
-#### 特技
 
-1.  使用 Readme\_XXX.md 来支持不同的语言，例如 Readme\_en.md, Readme\_zh.md
-2.  Gitee 官方博客 [blog.gitee.com](https://blog.gitee.com)
-3.  你可以 [https://gitee.com/explore](https://gitee.com/explore) 这个地址来了解 Gitee 上的优秀开源项目
-4.  [GVP](https://gitee.com/gvp) 全称是 Gitee 最有价值开源项目，是综合评定出的优秀开源项目
-5.  Gitee 官方提供的使用手册 [https://gitee.com/help](https://gitee.com/help)
-6.  Gitee 封面人物是一档用来展示 Gitee 会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
+![https://gitee.com/](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205281253739.png)
+
